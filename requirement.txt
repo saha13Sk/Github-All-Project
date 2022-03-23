@@ -5,3 +5,4 @@ video
 audio
 colors
 sticker
+dark mode
