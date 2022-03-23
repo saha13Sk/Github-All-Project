@@ -1,0 +1,7 @@
+This is Chat application 
+
+Emoji
+video
+audio
+colors
+sticker
